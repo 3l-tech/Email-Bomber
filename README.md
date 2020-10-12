@@ -1,6 +1,12 @@
-# Email-Bomber
+# Email-Bomber#
 
 
-' "" git clone https://github.com/3l-tech/Email-Bomber
+# INSTALATION #
 
-' " " ls
+$ git clone https://github.com/3l-tech/Email-Bomber
+
+$ cd Email-Bomber
+
+$ ls
+ 
+ 
