@@ -1,5 +1,9 @@
 # Email-Bomber#
 
+Captura do ecrã
+
+(https://raw.githubusercontent.com/ncorbuk/Python---Email-Bomber/master/Email-Bomber%20v1.0%20Picture.jpg)
+
 
 # INSTALATION #
 
